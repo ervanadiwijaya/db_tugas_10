@@ -1,0 +1,15 @@
+1.
+
+CREATE DATABASE importdata
+
+2.
+
+CREATE TABLE `buahbuahan` (
+  `id_buah` int(10) UNSIGNED NOT NULL,
+  `nama_buah` varchar(50) NOT NULL,
+  `varietas` varchar(50) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+3. 
+
+sudah di import
